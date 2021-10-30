@@ -1,1 +1,0 @@
-# NurbergenovDias_PythonASS3
